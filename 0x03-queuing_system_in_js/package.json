@@ -1,0 +1,20 @@
+{
+  "name": "0x03-queuing_system_in_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "0-redis_client.js",
+  "type": "module",
+  "dependencies": {
+    "redis": "^4.7.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "dev": "node 0-redis_client.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
